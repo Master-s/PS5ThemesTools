@@ -9,10 +9,10 @@ Remaining 6.xx - 7.xx
 -
 🟩6.00 🟩6.02 🟩6.50 🟩7.00 🟩7.01  🟩7.20 🟩7.40 🟩7.60  🟩7.61
 
-# How to get system_exe folder
+# How to get system_ex folder
 1. Activate PAYLOAD PS5 FTP <IP> <Port>
 2. Run the transmission program and enter the IP
-3. Download the system_exe folder to your PC so that it can be uploaded to the website
+3. Download the system_ex folder to your PC so that it can be uploaded to the website
 
 # Download
 (https://github.com/Master-s/PS5ThemesTools/releases/)
