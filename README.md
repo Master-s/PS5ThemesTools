@@ -11,7 +11,7 @@ Remaining 6.xx - 7.xx
 
 # How to get system_ex folder
 1. Activate PAYLOAD PS5 FTP <IP> <Port>
-2. Run the transmission program and enter the IP
+2. Run ftp and enter the IP
 3. Download the system_ex folder to your PC so that it can be uploaded to the website
 
 # Download
